@@ -26,6 +26,6 @@ if game.PlaceId == 662417684 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/cool83birdcarfly02six/-Every-Second-You-Get-1-Jump-Power/main/README.md"))()
 
     elseif game.PlaceId == 155615604 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/cool83birdcarfly02six/hfghdhfreh/main/README.md"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/cool83birdcarfly02six/PrisonLife/main/README.md"))()
 
 end
