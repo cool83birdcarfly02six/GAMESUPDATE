@@ -28,4 +28,14 @@ if game.PlaceId == 662417684 then
     elseif game.PlaceId == 155615604 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/cool83birdcarfly02six/PrisonLife/main/README.md"))()
 
+    elseif game.PlaceId == 13416514259 then --- Shadow Boxing
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/cool83birdcarfly02six/ShadowBoxingPC/main/README.md"))()
+
+    elseif game.PlaceId == 13764521698 then --- Shadow Boxing Voice Chats
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/cool83birdcarfly02six/ShadowBoxingPC/main/README.md"))()
+
+    elseif game.PlaceId == 13963195154 then --- Shadow Boxing 3v3
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/cool83birdcarfly02six/ShadowBoxingPC/main/README.md"))()
+
+
 end
