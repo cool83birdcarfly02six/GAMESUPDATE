@@ -40,6 +40,13 @@ if game.PlaceId == 662417684 then
         elseif game.PlaceId == 3351674303 then --- Driving Empire
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/DrivingEmpirePC/main/README.md'),true))()
 
+            elseif game.PlaceId == 6847090259 then --- Bulked Up City
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/BulkedUpPC/main/README.md'),true))()
+
+                elseif game.PlaceId == 11345205287 then --- Bulked Up Haloween
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/BulkedUpPC/main/README.md'),true))()
+
+
 
 
 end
