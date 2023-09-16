@@ -48,6 +48,9 @@ if game.PlaceId == 662417684 then
 
                     elseif game.PlaceId == 891852901 then --- GreenVille
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/GreenVillePC/main/README.md'),true))()
+               
+                 elseif game.PlaceId == 13772394625 then --- Blade Ball
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/BladeBallPC/main/README.md'),true))()
 
 
 
